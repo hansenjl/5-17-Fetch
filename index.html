@@ -3,14 +3,15 @@
   <head>
     <meta charset="utf-8">
     <title>Fetch Cocktails</title>
+    <link rel="stylesheet" href="style.css"/>
   </head>
   <body>
-    <div id="search-div">
-      <input id="search-input" type="text" >
-      <button id="submit">Look for Cocktails!</button>
-    </div>
+    <form id="search-form">
+      <input id="search-input" type="text" class="input-text" >
+      <input type="submit" value="Look for Cocktails!" class="submit">
+    </form>
     <div id="results-container">
-      FIRST 10 RESULTS GO HERE:
+      <h2 id="header">FIRST 10 RESULTS GO HERE:</h2>
       <ul id="list">
       </ul>
     </div>
