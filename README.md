@@ -3,7 +3,7 @@
 * Additional Resources:
  - http://latentflip.com/loupe
  - https://medium.com/jspoint/how-javascript-works-in-browser-and-node-ab7d0d09ac2f
- - [MealsDB](https://www.themealdb.com/api.php)
+ - [CocktailDB](https://www.thecocktaildb.com/api.php)
  - [Promises Explained with a Burger Party](https://fullstackjournal.wordpress.com/2018/07/06/the-promise-js-explained-i-burger-party/)
 
 

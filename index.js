@@ -1,5 +1,5 @@
-const baseUrl = 'https://www.themealdb.com/api/json/v1/1/search.php?s='
-// EDIT ME ^^^^^^^^ 
+const baseUrl = 'www.thecocktaildb.com/api/json/v1/1/search.php?s='
+
 
 const searchForm = document.getElementById("search-form")
 const input = document.getElementById('search-input')
